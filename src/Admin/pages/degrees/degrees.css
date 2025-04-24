@@ -1236,7 +1236,7 @@ input[type="file"]::file-selector-button:active {
   }
 
   .add-sublesson-btn {
-    width: 10rem;
+    width: 12rem;
   }
   .add-newLesson-btn p{
     margin-bottom: 0px !important;
