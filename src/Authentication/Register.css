@@ -205,8 +205,8 @@ input[type="file"] {
 }
 
 .form-container .form-control {
-  border-radius: 8px;
-  padding: 12px;
+  border-radius: 15px;
+  padding: 15px;
   border: 1px solid #ddd;
   margin-bottom: 16px;
 }
@@ -334,4 +334,15 @@ a{
 
 .elf>*{
   font-size: 14px !important;
+}
+
+
+.form-check-input {
+
+  border: var(--bs-border-width) solid #48a4ff;
+
+}
+.text-center {
+  font-weight: bold;
+  margin-bottom: 2px;
 }
